@@ -71,7 +71,7 @@ Individual consistency of behavioral flexibility is defined as the number of tri
 
 ####**Randomization and counterbalancing** 
 
-H1: Subjects will be randomly assigned to the manipulated or control group. Those individuals in the manipulated group will be counterbalanced in terms of whether they receive shape or color reversals first. In the reversal learning trials, the rewarded option is pseudorandomized for side (and the option on the left is always placed first). Pseudorandomization consisted of alternating location for the first two trials of a session and then keeping the same color on the same side for at most two consecutive trials thereafter. 
+H1: Subjects will be randomly assigned to the manipulated or control group. Those individuals in the manipulated group will be counterbalanced in terms of whether they receive shape or color reversals first. In the reversal learning trials, the rewarded option is pseudorandomized for side (and the option on the left is always placed first). Pseudorandomization consisted of alternating location for the first two trials of a session and then keeping the same color on the same side for at most two consecutive trials thereafter. A list of all 88 unique trial sequences for a session (of 10 trials), following the pseudorandomization rules, will be used (e.g., a trial sequence might look like: LRLLRRLRLR, where L and R refer to the location, left or right, of the rewarded tube). For each session, a random number generator will be used to generate a number from 1-88 and the corresponding sequence will be used for the current session.
 
 ####**Blinding of conditions during analysis**
 
